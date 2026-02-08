@@ -4,6 +4,7 @@ Concrètement, il vous suffit de décrire votre événement sur sa page web en r
 Une fois votre page correctement structurée selon cette norme, mon système se charge automatiquement de collecter les informations de l’événement afin de les rediffuser vers les plateformes et organisations susceptibles d’en assurer la promotion.
 L’objectif est de simplifier la diffusion, d’élargir la visibilité de vos événements et de centraliser leur promotion sans effort supplémentaire de votre part.
 
+---
 
 🇬🇧 Welcome to my multi-event publishing project, primarily for cultural events, offered through this service.
 The principle behind this tool is intentionally simple and can be summarized in a single sentence: publish an event—whether cultural, community-based, festive, risqué, or of any other nature—with a single click.
